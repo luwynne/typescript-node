@@ -2,7 +2,6 @@ import { Server } from './server/Server';
 
 class Launcher{
 
-    private name: String;
     private server: Server;
 
     constructor(){

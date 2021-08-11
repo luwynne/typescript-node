@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/luwynne/typescript-node#readme",
   "devDependencies": {
+    "@types/node": "^16.4.13",
     "ts-node": "^10.1.0",
     "typescript": "^4.3.5"
   },
